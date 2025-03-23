@@ -5,7 +5,11 @@ Ce projet consiste à développer un programme en Java permettant de résoudre u
 - charger ou de générer un labyrinthe,
 - de le résoudre,
 - et d'afficher la solution sous forme textuelle ou graphique.
-
+## Membre du groupe<br>
+Mamadou Abdoul Hamid Diallo <br>
+Isaac Feglar Fiacre Memini Edou <br>
+Ousmane Ali Brahim <br>
+Presentation Youtube : https://youtu.be/kgarYZ3U7LY <br>
 ## 🔧 Fonctionnalités
 
 ### Fonctionnalités principales
